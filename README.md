@@ -6,6 +6,6 @@ Built on top of the Arduino UNO but should work on the latest version. Burn this
 
 # Chariot Gauge DIY
 There are three parts to the Chariot Gauge project, this is the firmware:
-* Chariot Gauge Controller Firmware [This Repo]
+* [Chariot Gauge Controller Firmware](https://github.com/mikemey01/ChariotGauge-Firmware)
 * [Chariot Gauge Controller](https://github.com/mikemey01/ChariotGauge-PCB)
 * [Chariot Gauge Android App](https://github.com/mikemey01/ChariotGaugeAndroid), or [Chariot Gauge iOS App](https://github.com/mikemey01/ChariotGaugeiOS)
